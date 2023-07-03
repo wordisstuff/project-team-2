@@ -101,6 +101,7 @@
   fill: var(--white-text-color);
   cursor: pointer;
 }
+
 .mod-open-btn:hover,
 .mod-open-btn:focus {
   fill: var(--habanero-color);
@@ -115,6 +116,7 @@
   fill: var(--text-color);
   cursor: pointer;
 }
+
 .modal-open-btn:hover,
 .modal-open-btn:focus {
   fill: var(--habanero-color);
@@ -169,8 +171,7 @@
 
 /* ===========media======== */
 
-@media screen and (min-width: 375px) {
-}
+@media screen and (min-width: 375px) {}
 
 @media screen and (min-width: 768px) {
   .list-container {
@@ -198,3 +199,5 @@
     gap: 308px;
   }
 }
+
+/* 123 */
